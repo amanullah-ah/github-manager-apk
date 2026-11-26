@@ -1,0 +1,9 @@
+{
+  "appId": "com.amanullah.githubmanager",
+  "appName": "GITHUB MANAGER",
+  "webDir": "www",
+  "backgroundColor": "#07080f",
+  "server": {
+    "androidScheme": "https"
+  }
+}
